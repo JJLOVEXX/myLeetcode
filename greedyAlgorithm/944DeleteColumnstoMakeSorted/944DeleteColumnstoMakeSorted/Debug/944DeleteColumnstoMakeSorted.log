@@ -1,0 +1,4 @@
+﻿  DeleteColumnstoMakeSorted.cpp
+d:\work\leetcode\greedyalgorithm\944deletecolumnstomakesorted\944deletecolumnstomakesorted\deletecolumnstomakesorted.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+d:\work\leetcode\greedyalgorithm\944deletecolumnstomakesorted\944deletecolumnstomakesorted\deletecolumnstomakesorted.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  944DeleteColumnstoMakeSorted.vcxproj -> D:\Work\leetcode\greedyAlgorithm\944DeleteColumnstoMakeSorted\Debug\944DeleteColumnstoMakeSorted.exe
