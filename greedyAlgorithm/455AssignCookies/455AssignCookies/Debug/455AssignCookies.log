@@ -1,0 +1,4 @@
+﻿  assignCookies.cpp
+d:\work\leetcode\greedyalgorithm\455assigncookies\455assigncookies\assigncookies.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+d:\work\leetcode\greedyalgorithm\455assigncookies\455assigncookies\assigncookies.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+  455AssignCookies.vcxproj -> D:\Work\leetcode\greedyAlgorithm\455AssignCookies\Debug\455AssignCookies.exe
