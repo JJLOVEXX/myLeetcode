@@ -1,0 +1,1 @@
+answer[i][j]=mat[i-k][j]+...+mat[r][j]+...+mat[i+k][j]+mat[i][j-k]+...+mat[i][c]+...+mat[i][j+k]
