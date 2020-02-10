@@ -1,0 +1,27 @@
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello World!");
+    }
+
+    int res;
+
+    public int sumEvenGrandparent(TreeNode root) {
+
+        res = 0;
+        helper(null, null, root);
+        return res;
+    }
+
+    private void helper(TreeNode grandP, TreeNode father, TreeNode node) {
+        if(node == null) return;
+
+        if(grandP != null && grandP.val % 2 == 0) {
+            res += node.val;
+        }
+
+        helper(father, node, node.left);
+        helper(father, node, node.right);
+    }
+}
